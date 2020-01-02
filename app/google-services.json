@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "398277760011",
+    "firebase_url": "https://captionia.firebaseio.com",
+    "project_id": "captionia",
+    "storage_bucket": "captionia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398277760011:android:d3b83c0fd303d6cd",
+        "android_client_info": {
+          "package_name": "com.caption.pcp.captionia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398277760011-o4h5m3tspba3ddahm3e8beqb9sgfkknp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.caption.pcp.captionia",
+            "certificate_hash": "3e75904e6986b5b6d823b80020792709dca0ee1e"
+          }
+        },
+        {
+          "client_id": "398277760011-5apoo50n1rga51a8h4pg1aqutvec85ni.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1h7sbgwdGHxOnjfQ035s9N7ogoYkQEoc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398277760011-5apoo50n1rga51a8h4pg1aqutvec85ni.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
